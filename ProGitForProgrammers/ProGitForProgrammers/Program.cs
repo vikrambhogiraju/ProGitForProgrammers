@@ -12,6 +12,7 @@ namespace ProGitForProgrammers
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I just added this line in Visual Studio");
+            Console.WriteLine("I just added this in the command line repo");
         }
     }
 }
